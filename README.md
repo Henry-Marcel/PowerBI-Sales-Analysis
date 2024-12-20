@@ -44,7 +44,34 @@ The dataset used for this project is `Sales.xlsx`. It includes:
   - London and Paris lead with significant contributions.
 - **Sales by Gender**:
   - Female customers: $14.81M.
-  - Male
+  - Male customers: $14.55M.
+- **Regional Analysis**:
+  - Interactive map showcasing customer sales distribution.
+
+### 3. **Product Details**
+- **Total Sales**: $31.707M.
+- **Total Cost**: $17.278M.
+- **Sales and Cost by Month**:
+  - Steady growth in sales and costs from January to December.
+  - Peak sales in June, July, and December.
+- **Top Products by Sales**:
+  - Mountain-200 Black and Silver dominate the top products.
+  - Road Bikes follow closely.
+- **Detailed Product Breakdown**:
+  - Includes product categories, subcategories, and sales trends by month.
+
+## How to Use the Dashboard
+1. Download the dataset (`Sales.xlsx`) and Power BI report file (`PerformanceReport(Sales).pbix`) from this repository.
+2. Open the `PerformanceReport(Sales).pbix` file in Power BI Desktop.
+3. Ensure the dataset is correctly linked or update the data source path.
+4. Use filters (e.g., year, month, customer city, product category) to interact with the visuals.
+
+## Tools and Technologies
+- **Power BI**: For data visualization and dashboard creation.
+- **Excel**: For data preparation.
+
+## Repository Structure
+
 
 
 Sales-Overview/ |-- Sales.xlsx # Dataset |-- PerformanceReport(Sales).pbix # Power BI report |-- README.md # Project documentation
