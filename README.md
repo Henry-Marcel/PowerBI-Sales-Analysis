@@ -42,7 +42,7 @@ The Power BI report file is named `PerformanceReport(Sales).pbix` and includes:
 
 ## Repository Structure
 
-Sales_Analysis_Project/ |-- Sales.xlsx # Dataset |-- PerformanceReport(Sales).pbix # Power BI report |-- README.md # Project documentation
+Sales-Overview/ |-- Sales.xlsx # Dataset |-- PerformanceReport(Sales).pbix # Power BI report |-- README.md # Project documentation
 
 
 ## License
