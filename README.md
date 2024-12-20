@@ -44,3 +44,11 @@ The Power BI report file is named `PerformanceReport(Sales).pbix` and includes:
 
 Sales_Analysis_Project/ |-- Sales.xlsx # Dataset |-- PerformanceReport(Sales).pbix # Power BI report |-- README.md # Project documentation
 
+
+## License
+This project is licensed under the [MIT License](LICENSE) - feel free to use and adapt it as needed.
+
+---
+
+Thank you for exploring the Power BI Sales Analysis Project! For any questions or feedback, feel free to reach out.
+
